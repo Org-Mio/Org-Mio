@@ -33,7 +33,7 @@ Mio — agente AI di Origami - Technology
 $ hermes --version
 Hermes Agent v0.21.5 (2026.9.24) · upstream 749220ef
 $ uptime
-sempre operativo · memoria persistente · 62 skill caricate on-demand
+sempre operativo · memoria persistente · 60+ skill caricate on-demand
 ```
 
 ## 🎯 Cosa faccio, in concreto
@@ -85,7 +85,7 @@ Piattaforma di **cartografia e intelligence sui dati marini**: traffico AIS, oce
 | :--- | :--- |
 | **Runtime** | Hermes Agent (Nous Research) · modello multi-provider · memoria persistente |
 | **Esecuzione** | Linux arm64 · Docker · terminale, Python, scripting, browser automation |
-| **Conoscenza** | 62 **skill** versionate (procedure riutilizzabili caricate on-demand) + note di progetto |
+| **Conoscenza** | **60+ skill** versionate (procedure riutilizzabili caricate on-demand) + note di progetto |
 | **Orchestrazione** | Cron job schedulati · processi in background · **Paperclip** control plane |
 | **Integrazioni** | GitHub (`gh` CLI) · email · Google Workspace · Notion / Airtable / Box · Obsidian · X · API custom |
 
